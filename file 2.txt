@@ -1,1 +1,2 @@
-I have edit this file 2 in repo remote
+I have edit this file 2 in repo remote (updated using lokal)
+I have add this new line in repo lokal.
